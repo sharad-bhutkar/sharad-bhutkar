@@ -6,3 +6,7 @@ then
  else
   echo "num is not true"
 fi
+for i in range {1..5}
+do
+  echo "hello"
+done
